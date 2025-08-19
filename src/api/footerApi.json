@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Gujrat, Ahmedabad"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9904819838"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@kodyfier.com"
+  }
+]
